@@ -11,7 +11,7 @@ Social sites hacking tools
 
 - Any Debian/Ubuntu based OS
 
-- Termux [ For Phone ]
+
 
  
  # Requirements
